@@ -1,0 +1,16 @@
+body{
+
+	background-image:url(fondodcsuper.jpg);
+	background-size:100% 100%;
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+
+
+}
+
+#blanco{
+	opacity:0.5;
+}
+#todo{
+	opacity:1;
+}
